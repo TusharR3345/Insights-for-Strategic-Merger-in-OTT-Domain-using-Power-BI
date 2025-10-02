@@ -14,7 +14,7 @@ The analysis explores user activity, paid subscriber trends, and content consump
 
 - **Data Visualization**: Power BI  
 - **Data Analysis**: SQL   
-- **Tools**: Excel, SQL, Power BI Desktop, Power BI Service and Powerpoint.
+- **Tools**:  SQL, Power BI Desktop, Power BI Service and Powerpoint.
 
 
 ## 📂 Dashboard Sections:

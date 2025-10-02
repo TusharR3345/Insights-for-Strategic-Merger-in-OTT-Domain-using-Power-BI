@@ -1,16 +1,16 @@
-##📊 Insights-for-Strategic-Merger-in-OTT-Domain-using-Power-BI
+## 📊 Insights-for-Strategic-Merger-in-OTT-Domain-using-Power-BI
 
-##📌 Project Overview:
+## 📌 Project Overview:
 This project provides insights into the strategic merger of Liocinema and Jotstar in the OTT (Over-the-Top) streaming domain using Power BI.
 The analysis explores user activity, paid subscriber trends, and content consumption patterns to assess the potential synergies between both platforms.
 
-##🎯 Objectives:
+## 🎯 Objectives:
 *Compare user engagement and retention across both platforms.
 *Identify subscriber trends (paid vs free users).
 *Evaluate content library performance and consumption patterns.
 *Provide data-driven insights for strategic decision-making in the OTT merger.
 
-##👩‍💻 Tech Stack
+## 👩‍💻 Tech Stack
 
 - **Data Visualization**: Power BI  
 - **Data Analysis**: SQL  
@@ -18,7 +18,7 @@ The analysis explores user activity, paid subscriber trends, and content consump
 - **Tools**: Excel, SQL, Power BI Desktop, Power BI Service and Powerpoint.
 
 
-##📂 Dashboard Sections:
+## 📂 Dashboard Sections:
 The Power BI dashboard includes the following pages:
 🏠 Home – Navigation overview.
 📑 Overview – Summary of total users, activity, and subscribers.

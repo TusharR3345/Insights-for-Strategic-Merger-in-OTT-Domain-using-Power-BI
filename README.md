@@ -26,3 +26,17 @@ The Power BI dashboard includes the following pages:
 👥 Subscriber Analysis – Paid vs free subscribers, retention, and churn.
 🍿 Content Consumption Analysis – Viewing trends, peak hours, and engagement.
 
+## Home Page
+![Home Page](https://github.com/TusharR3345/Insights-for-Strategic-Merger-in-OTT-Domain-using-Power-BI/blob/main/images/home.png)
+
+## Overview 
+![Overview](https://github.com/TusharR3345/Insights-for-Strategic-Merger-in-OTT-Domain-using-Power-BI/blob/main/images/overview.png)
+
+## Content Library Analysis
+![Content Library Analysis](https://github.com/TusharR3345/Insights-for-Strategic-Merger-in-OTT-Domain-using-Power-BI/blob/main/images/contentlibrary.png)
+
+## Subscriber Analysis
+![Subscriber Analysis](https://github.com/TusharR3345/Insights-for-Strategic-Merger-in-OTT-Domain-using-Power-BI/blob/main/images/subscriber_analysis.png)
+
+## Content Consumption Analysis
+![content Consmuption Analysis](https://github.com/TusharR3345/Insights-for-Strategic-Merger-in-OTT-Domain-using-Power-BI/blob/main/images/contentconsumption.png)

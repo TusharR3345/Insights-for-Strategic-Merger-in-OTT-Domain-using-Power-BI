@@ -13,8 +13,7 @@ The analysis explores user activity, paid subscriber trends, and content consump
 ## 👩‍💻 Tech Stack
 
 - **Data Visualization**: Power BI  
-- **Data Analysis**: SQL  
-- **Data Modeling**: Snowflake schema  
+- **Data Analysis**: SQL   
 - **Tools**: Excel, SQL, Power BI Desktop, Power BI Service and Powerpoint.
 
 
@@ -40,3 +39,11 @@ The Power BI dashboard includes the following pages:
 
 ## Content Consumption Analysis
 ![content Consmuption Analysis](https://github.com/TusharR3345/Insights-for-Strategic-Merger-in-OTT-Domain-using-Power-BI/blob/main/images/contentconsumption.png)
+
+
+## 🔍 Key Insights:
+Jotstar has 85% active users, indicating strong retention, while Liocinema has 55% active users.
+Paid subscribers account for 111K (48.66%), reflecting high engagement and conversion.
+Across both platforms, there are 228K total users:
+*139K active users (61%)
+*89K inactive users (39%)
